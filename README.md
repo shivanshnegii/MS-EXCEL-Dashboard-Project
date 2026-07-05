@@ -1,4 +1,4 @@
-# 📊 MS Excel SalesDashboard Project
+# 📊 MS Excel Sales Dashboard Project
 
 An interactive Sales Dashboard built in Microsoft Excel to analyze and visualize sales performance using Pivot Tables, Pivot Charts, Slicers, and advanced Excel features. This project demonstrates how raw sales data can be transformed into meaningful business insights through interactive reporting.
 
